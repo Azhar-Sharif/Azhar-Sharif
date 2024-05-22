@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/azhar-sharif-915a33306/" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/04/37/88/86/360_F_437888641_XrjjuAwATXWNx10jQurCDaXXJnobhDi4.jpg" alt="azharsharif" height="30" width="40" /></a>
 <a href="https://kaggle.com/azhar insari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="azhar insari" height="30" width="40" /></a>
 <a href="https://instagram.com/azharsharif042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azharsharif042" height="30" width="40" /></a>
 </p>
