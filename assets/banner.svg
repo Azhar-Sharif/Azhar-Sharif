@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none">
+  <rect width="1200" height="280" rx="20" fill="#161B22"/>
+  <text x="72" y="118" fill="#F0F6FC" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="52" font-weight="700">Hey, I'm Azhar</text>
+  <text x="72" y="172" fill="#8B949E" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="26">Full-stack engineer · shipping real products</text>
+  <rect x="72" y="208" width="180" height="5" rx="2.5" fill="#4493F8"/>
+</svg>
